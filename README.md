@@ -26,3 +26,6 @@ Also,
 1! = 1
 0! = 0
 ```
+
+## Q4
+> Write a Java method to create the area of a pentagon.
