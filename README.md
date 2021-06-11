@@ -3,6 +3,29 @@
 ## Q1: 
 > Write a Java program with a method named 'totalSum' that takes in an argument of two integers and return its sum. Call this method from main( ) and print the results.
 
+
+
+
+
+>Ans: 
+public class method {
+	
+	public static void totalSum(int A,int B) {
+		int C=0;
+		C=A+B;
+		System.out.println("The total sum of "+A+" and "+B+" is " +C);
+
+	}
+
+
+	public static void main(String[] args) {
+		totalSum(12, 12);
+
+	}
+
+}
+
+
 ## Q2:
 > Write a Java program with a method named 'getGrades' that will display grades according to the marks entered into the method call as below:
 ```
