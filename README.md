@@ -7,12 +7,12 @@
 > Write a Java program with a method named 'getGrades' that will display grades according to the marks entered into the method call as below:
 ```
 Marks        Grade
-91-100         AA
-81-90          AB
-71-80          BB
-61-70          BC
-51-60          CD
-41-50          DD
+91-100         A+
+81-90          A-
+71-80          B+
+61-70          B-
+51-60          C+
+41-50          D-
 <=40          Fail
 ```
 
